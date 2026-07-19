@@ -1,0 +1,10 @@
+OCD Services Premium Website V33
+
+Update:
+- Added a new seventh before-and-after transformation slide.
+- Slide 7 uses the newly supplied garden gate/fence photographs.
+- BEFORE: IMG-20260523-WA0007.jpg
+- AFTER: IMG-20260523-WA0006.jpg
+- Gallery counter updated to 07.
+- Existing draggable comparison control and single Next Photo button retained.
+- Preserved and corrected direct dragging on the lime comparison handle for mouse and touchscreen use.

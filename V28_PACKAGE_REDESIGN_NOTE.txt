@@ -1,0 +1,16 @@
+OCD Services Website V28 — Premium Package Redesign
+
+Changes:
+- Repositioned the homepage around the core promise: Clean. Restore. Protect.
+- Added dedicated Packages navigation.
+- Added three conversion-focused service packages:
+  OCD CLEAN — From £150
+  OCD RESTORE — From £240 (Most Popular)
+  OCD PROTECT — From £395
+- Added package-specific WhatsApp quote buttons.
+- Added package pricing disclaimer and guidance to send photos/postcode.
+- Added a 3-step quote-to-completion process section.
+- Refined homepage copy, hero CTA and trust messages.
+- Updated footer positioning to exterior property cleaning & restoration.
+- Preserved existing before/after comparison carousel and job images.
+- Preserved current OCD Services phone: 07909 813764.

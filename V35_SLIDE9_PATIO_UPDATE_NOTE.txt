@@ -1,0 +1,13 @@
+OCD Services Website V35
+
+Added a new before-and-after transformation as Slide 9.
+
+Before image:
+- 20260502_090935 (1).jpg
+- Saved as assets/images/before-patio-2.webp
+
+After image:
+- 20260502_140737 (1).jpg
+- Saved as assets/images/after-patio-2.webp
+
+The gallery now contains 9 slides. The existing Next Photo control and draggable before/after comparison control automatically work with the new slide.

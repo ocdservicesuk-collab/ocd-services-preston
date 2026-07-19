@@ -1,0 +1,7 @@
+OCD Services Website V32
+
+Change made:
+- Replaced the AFTER image on gallery Slide 4 with the newly supplied customer photo.
+- The new image is stored as assets/images/after-driveway.webp.
+- The image keeps the full 3:4 composition and matches the existing slideshow asset dimensions (1152x1536).
+- No other gallery slides, controls, package sections, drain-cleaning content, contact details, or branding were changed.

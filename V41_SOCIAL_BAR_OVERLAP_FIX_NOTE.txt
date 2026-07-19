@@ -1,0 +1,7 @@
+OCD Services Website V41
+
+Change:
+- Fixed the desktop/tablet social link bar overlapping hero text.
+- Social bar now sits in normal page flow below the hero copy rather than floating over it.
+- Preserved existing mobile behaviour (social bar hidden on small screens, mobile dock remains available).
+- Added responsive spacing for tablet widths.

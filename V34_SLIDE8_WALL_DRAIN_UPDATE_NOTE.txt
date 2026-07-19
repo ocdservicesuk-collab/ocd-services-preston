@@ -1,0 +1,7 @@
+OCD Services Website V34
+
+Added Slide 8 to the before-and-after gallery.
+- BEFORE: IMG-20260620-WA0011 (1).jpg
+- AFTER: IMG-20260620-WA0028 (1).jpg
+- Gallery total updated from 07 to 08.
+- Existing draggable comparison control and Next Photo button preserved.

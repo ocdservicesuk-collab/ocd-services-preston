@@ -1,0 +1,47 @@
+OCD Services V38 — Full Photo Alignment, Commercial & Responsive QA
+
+PHOTO TRANSITIONS
+- All 9 before/after pairs were analysed and reframed to matched 4:3 source frames.
+- Slides 2, 3, 6, 7, 8 and 9 were geometrically aligned/cropped around fixed structures where possible.
+- Slide 1 was tightly matched around the same patio slab area; the original camera positions differ, so the crop minimises movement without artificial distortion.
+- Slide 4 was rebuilt around the same brick-wall / blue-barrel corner so the before/after now shows the closest common scene instead of mismatched wide/close framing.
+- Slide 5 was matched around the same driveway-edge / hedge / brick-border zone; the original camera positions differ materially.
+- Every before and after gallery asset is now exactly 1600 x 1200.
+- Gallery display uses identical cropping for each pair: 16:9 desktop, 4:3 tablet, 4:5 mobile.
+- Slide 9 markup was corrected so the draggable comparison control works like the other 8 slides.
+
+HERO / BACKGROUND
+- Expanded hero animation from 3 images to 7 clean-result photos.
+- Uses AFTER/result images only.
+- Selected results: patio, side passage, driveway/corner, patio paving, fence and gate/fence result shots.
+- Added slow crossfade + Ken Burns movement.
+- Reduced-motion support remains enabled.
+
+COMMERCIAL
+- Added dedicated Commercial navigation item.
+- Added Commercial Exterior Cleaning service card.
+- Added dedicated Commercial Cleaning section.
+- Added "NO JOB TOO BIG" commercial messaging.
+- Added commercial WhatsApp quote CTA and direct call CTA.
+- Added COMMERCIAL SITES to the service marquee.
+
+GOOGLE / MAPS
+- Removed duplicate Google buttons/links that led to the same Maps destination.
+- Kept Maps/service-area links.
+- Re-spaced the remaining single service-area map button.
+
+DESKTOP / MOBILE QA
+- 9 slides confirmed, 9 draggable stages confirmed.
+- 7 animated hero backgrounds confirmed.
+- No duplicate HTML IDs found.
+- No old 07460 phone number present.
+- No duplicate "Google" / "Find on Google" CTA remains.
+- Commercial section confirmed present.
+- JavaScript syntax check passed.
+- CSS parser check passed with 0 parse errors.
+- All gallery before/after images confirmed at matching 1600 x 1200 dimensions.
+- Responsive rules checked: nav collapses below 900px; mobile dock activates below 620px; commercial grid collapses to one column; gallery uses mobile 4:5 framing; package/service cards collapse appropriately.
+- Added 901–1180px header spacing rule to prevent crowded desktop/tablet navigation.
+
+NOTE
+The automated Chromium visual screenshot runner available in this workspace failed to launch reliably because of its sandbox/crashpad environment. The site was therefore double-checked through HTML structure validation, CSS parsing, JavaScript syntax validation, asset/dimension checks and responsive breakpoint review rather than claiming a browser screenshot test that did not complete.

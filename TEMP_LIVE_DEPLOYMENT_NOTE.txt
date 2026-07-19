@@ -1,0 +1,5 @@
+OCD Services v26 — Temporary Live Workers Version
+
+Use this package on the current workers.dev address until the permanent domain is connected.
+It keeps the latest premium typography, working 6-slide slideshow, updated Slide 1 after photo,
+social links, SEO files and Google verification file.

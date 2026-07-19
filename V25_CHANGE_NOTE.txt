@@ -1,0 +1,5 @@
+OCD Services v25
+Changed the entire website to a cleaner premium typography system.
+Headings now use a refined modern sans-serif style without the previous heavy futuristic italic treatment.
+Body text, navigation, buttons, service cards and slideshow controls have all been harmonised.
+No slideshow images, links, SEO files or Google verification files were changed.

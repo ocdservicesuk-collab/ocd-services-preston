@@ -1,0 +1,99 @@
+OCD Services Website v8 - Link Check Report
+Business phone: 07909 813764
+
+01. [logo/home]
+    #home
+    OK
+02. Services
+    #services
+    OK
+03. Before & After
+    #results
+    OK
+04. Areas
+    #areas
+    OK
+05. Contact
+    #contact
+    OK
+06. 07909 813764
+    tel:+447909813764
+    OK
+07. WhatsApp for a fast quote
+    https://wa.me/447909813764?text=Hi%20OCD%20Services%2C%20I%27d%20like%20a%20free%20quote
+    OK
+08. Call 07909 813764
+    tel:+447909813764
+    OK
+09. ☎ Call
+    tel:+447909813764
+    OK
+10. ◉ WhatsApp
+    https://wa.me/447909813764?text=Hi%20OCD%20Services%2C%20I%27d%20like%20a%20quote
+    OK
+11. f Facebook
+    https://www.facebook.com/search/pages/?q=OCD%20Services%20Preston%20Lancashire
+    OK
+12. ◎ Instagram
+    https://www.instagram.com/ocd_jetwash_services/
+    OK
+13. G Google
+    https://www.google.com/search?q=OCD+Services+Preston+Lancashire
+    OK
+14. ⌖ Maps
+    https://www.google.com/maps/search/?api=1&query=OCD+Services+Preston+Lancashire
+    OK
+15. Get a quote →
+    #contact
+    OK
+16. See results →
+    #results
+    OK
+17. Book an estimate →
+    #contact
+    OK
+18. Ask about your job →
+    #contact
+    OK
+19. Send photos now
+    https://wa.me/447909813764?text=Hi%20OCD%20Services%2C%20I%27d%20like%20a%20quote
+    OK
+20. Open Maps
+    https://www.google.com/maps/search/?api=1&query=OCD+Services+Preston+Lancashire
+    OK
+21. Find on Google
+    https://www.google.com/search?q=OCD+Services+Preston+Lancashire
+    OK
+22. WHATSAPP Get a fast quote →
+    https://wa.me/447909813764?text=Hi%20OCD%20Services%2C%20I%27d%20like%20a%20quote
+    OK
+23. CALL 07909 813764 →
+    tel:+447909813764
+    OK
+24. 07909 813764
+    tel:+447909813764
+    OK
+25. ocd.services.uk@gmail.com
+    mailto:ocd.services.uk@gmail.com
+    OK
+26. Call
+    tel:+447909813764
+    OK
+27. WhatsApp
+    https://wa.me/447909813764?text=Hi%20OCD%20Services%2C%20I%27d%20like%20a%20quote
+    OK
+28. Facebook
+    https://www.facebook.com/search/pages/?q=OCD%20Services%20Preston%20Lancashire
+    OK
+29. Instagram
+    https://www.instagram.com/ocd_jetwash_services/
+    OK
+30. Google
+    https://www.google.com/search?q=OCD+Services+Preston+Lancashire
+    OK
+31. Maps
+    https://www.google.com/maps/search/?api=1&query=OCD+Services+Preston+Lancashire
+    OK
+
+Total links checked: 31
+Errors found: 0

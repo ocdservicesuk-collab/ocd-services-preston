@@ -1,0 +1,9 @@
+missing_local_refs: []
+duplicate_ids: []
+old_number_present: False
+slide2_before_dimensions: (1350, 1800)
+slide2_after_dimensions: (1350, 1800)
+hero_background_count: 9
+gallery_slide_count: 9
+google_button_text_count: 0
+maps_link_count: 4

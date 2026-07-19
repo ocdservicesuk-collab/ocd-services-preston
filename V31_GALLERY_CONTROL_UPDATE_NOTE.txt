@@ -1,0 +1,10 @@
+OCD Services Website V31
+
+Changes:
+- Made the lime before/after circle directly draggable on the photo with mouse or touch.
+- Clicking/tapping the photo moves the comparison divider.
+- Added keyboard support to the comparison handle.
+- Removed the slider bar underneath every before/after image.
+- Removed the three quick-view buttons.
+- Replaced Previous/dots/Next control bar with one Next Photo button.
+- Kept a compact photo counter (01 / 06).

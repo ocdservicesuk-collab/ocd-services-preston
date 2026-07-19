@@ -1,0 +1,7 @@
+OCD Services Website v16
+Added Slide 6 to the before/after comparison slideshow.
+New pair:
+- BEFORE: before-corner.jpg
+- AFTER: after-corner.jpg
+Label: Driveway corner clean
+Slideshow total: 6 matched pairs

@@ -1,0 +1,31 @@
+OCD SERVICES v27 — FULL SITE CHECK
+
+RESULT: FULL REPAIR COMPLETED
+
+Issues found in v26:
+1. The stylesheet started with malformed leftover text from an old font import.
+2. A legacy CSS rule changed the fixed header to position:relative.
+3. The same legacy rule changed the social bar from position:absolute to relative.
+4. Several generations of obsolete slideshow CSS were still loaded.
+5. The mobile More button had no JavaScript handler.
+6. The before/after masking used viewport-dependent widths, which could cause alignment problems.
+
+Repairs made:
+- Rebuilt stylesheet cleanly from one source of truth.
+- Restored fixed premium header.
+- Restored correct hero and social bar positioning.
+- Preserved premium typography.
+- Preserved all 5 service cards including Drain Jet Washing.
+- Preserved all 6 before/after pairs.
+- Rebuilt comparison masking using clip-path for reliable alignment.
+- Preserved Slide 1 updated After photo.
+- Restored mobile More menu functionality.
+- Preserved Call, WhatsApp, Instagram, Facebook, Google/Maps and email links.
+- Preserved SEO, sitemap, robots and Google verification files.
+- Kept this temporary-live package configured for the workers.dev address.
+
+Validation:
+- Slideshow pairs found: 6
+- Image references found: 15
+- Missing image assets: []
+- Missing required content: []

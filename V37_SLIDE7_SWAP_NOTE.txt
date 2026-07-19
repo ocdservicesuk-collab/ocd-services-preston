@@ -1,0 +1,8 @@
+OCD Services Website V37
+
+Change made:
+- Slide 7 garden fence/gate before and after photographs swapped around as requested.
+- The photo previously shown as AFTER is now BEFORE.
+- The photo previously shown as BEFORE is now AFTER.
+- Hero image reference remains on the AFTER filename, which now points to the corrected after photograph.
+- All other website content and gallery slides remain unchanged from V36.

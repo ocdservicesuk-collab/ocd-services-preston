@@ -1,0 +1,16 @@
+OCD SERVICES — DOMAIN LAUNCH CHECKLIST
+
+Permanent domain: https://ocd-services-preston.ocd-services-uk.workers.dev/
+
+This package is prepared for the permanent domain.
+Do not replace the current workers.dev deployment with this package until the custom domain is connected to Cloudflare.
+
+When ready:
+1. Connect ocdservicespreston.co.uk to the Cloudflare Worker.
+2. Deploy this v22 package.
+3. Check the homepage.
+4. Check /sitemap.xml.
+5. Check /robots.txt.
+6. Submit sitemap.xml in Google Search Console under the ocdservicespreston.co.uk property.
+7. Inspect the homepage URL and request indexing.
+8. Keep the Google TXT verification record in DNS.

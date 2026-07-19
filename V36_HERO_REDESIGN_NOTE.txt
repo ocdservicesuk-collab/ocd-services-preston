@@ -1,0 +1,7 @@
+V36 HERO REDESIGN
+- Replaced the low-resolution static hero background with a 3-image animated carousel using real OCD Services job photos.
+- Added slow crossfades and subtle Ken Burns movement.
+- Reduced the heavy dark overlay on the visual side so the photography is clearer.
+- Kept a strong left-side gradient for text readability.
+- Added a subtle animated lime/white sheen and a pulsing 'REAL OCD SERVICES RESULTS' badge.
+- Added reduced-motion fallback for accessibility.

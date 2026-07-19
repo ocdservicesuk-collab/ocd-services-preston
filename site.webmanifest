@@ -1,0 +1,20 @@
+{
+  "name": "OCD Services",
+  "short_name": "OCD Services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050705",
+  "theme_color": "#070907",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

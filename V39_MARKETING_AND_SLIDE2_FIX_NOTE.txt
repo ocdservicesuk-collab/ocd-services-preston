@@ -1,0 +1,13 @@
+OCD Services V39
+
+- Slide 2 before/after restored to the original portrait files at their native dimensions (1350 x 1800).
+- No non-proportional stretching or perspective warping is applied to Slide 2.
+- Slide 2 now uses browser cropping (object-fit: cover) only, preserving natural proportions.
+- Hero animation expanded to 9 clean-result images.
+- Added low-friction CTA microcopy: free photo quote, no obligation, clear scope before work.
+- Changed unverified "Most Popular" wording to "Best for Most Restorations".
+- Added a decision-confidence strip based on real/supportable service attributes.
+- Added post-gallery conversion CTA.
+- Added FAQ objection-handling section.
+- Added FAQ to desktop navigation.
+- No fake countdowns, fake scarcity or invented reviews used.

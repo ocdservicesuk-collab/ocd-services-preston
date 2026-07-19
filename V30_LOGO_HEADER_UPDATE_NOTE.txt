@@ -1,0 +1,1 @@
+V30 update: The OCD Services master logo in the top-left header now uses a tightly cropped header-specific asset so the artwork fills the black header area more effectively. Desktop logo height increased to 104px within a 112px header; mobile logo height increased to 78px within an 84px header. The original full logo asset remains available and the footer logo is unchanged.

@@ -1,0 +1,32 @@
+OCD SERVICES WEBSITE v18 — DIGITAL POLISH IMPLEMENTATION
+
+IMPLEMENTED:
+- Google buttons now use the exact supplied Google Business/Maps listing link.
+- Instagram links use the clean canonical profile URL.
+- Facebook links use the supplied business share URL (permanent page URL not available).
+- Canonical website URL added.
+- LocalBusiness + HomeAndConstructionBusiness JSON-LD added.
+- Open Graph and Twitter social-sharing metadata added.
+- Branded 1200x630 social sharing image added.
+- sitemap.xml added.
+- robots.txt added.
+- favicon.ico, favicon.png and Apple touch icon added.
+- site.webmanifest added.
+- Cloudflare _headers security/cache rules added.
+- Photos converted to WebP and resized for faster loading.
+- Non-critical content images lazy-loaded.
+- First comparison images prioritised.
+- Exact master logo retained.
+
+PHOTO BYTES BEFORE OPTIMISATION: 16,237,849
+PHOTO BYTES AFTER OPTIMISATION:  8,049,320
+PHOTO SIZE REDUCTION: 50.4%
+TOTAL DEPLOYMENT SIZE: 8,440,130 bytes
+
+LINK VALIDATION:
+- Missing internal anchors: []
+- Missing local assets: []
+- Required link checks: {'phone': True, 'whatsapp': True, 'instagram_clean': True, 'facebook': True, 'google_business_maps': True, 'email': True, 'canonical': True, 'schema': True, 'og': True}
+
+NOTE:
+The Facebook link remains the exact /share/ URL supplied by the business owner because a permanent public Facebook page URL has not yet been provided or independently resolved.

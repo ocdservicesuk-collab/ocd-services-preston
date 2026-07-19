@@ -1,0 +1,5 @@
+OCD Services v24
+Fix applied: all before/after slideshow images now load eagerly.
+This prevents slides 2-6 appearing blank in browsers that defer images inside hidden slides.
+Slide 1 retains the newly supplied AFTER photo.
+All 6 matched pairs are present.

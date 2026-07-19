@@ -1,0 +1,11 @@
+OCD Services Website v15 update report
+Business phone: 07909 813764
+
+Updated links:
+- Facebook: https://www.facebook.com/share/18S2Abybd5/
+- Instagram: https://www.instagram.com/ocd_services.uk?igsh=cHFqd3MxYjA0Zmhr
+- Google Maps: https://maps.app.goo.gl/NY2KmFACNz8CcMqZ7?g_st=ac
+
+Logo files replaced with the exact OCD Services master logo provided by the user:
+- assets/images/master-logo-v6.png
+- assets/images/master-logo.png

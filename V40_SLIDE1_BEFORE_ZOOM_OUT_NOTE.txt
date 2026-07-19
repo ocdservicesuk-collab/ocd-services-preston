@@ -1,0 +1,6 @@
+V40 update
+- Slide 1 BEFORE image zoomed out slightly.
+- Restored more of the original photo above and below the previous crop.
+- Original photo proportions preserved; no stretching or aspect-ratio distortion.
+- Narrow side extension uses reflected edge pixels only to maintain the 4:3 gallery frame.
+- All other V39 content and functionality unchanged.
