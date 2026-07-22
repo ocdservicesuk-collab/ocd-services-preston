@@ -1439,29 +1439,33 @@ body{
   }
 }
 
-/* Flipped pressure-washing hero: equipment left, live page copy right. */
+/* Pressure-washing hero: live page copy left, equipment right. */
 @media(min-width:901px){
   .hero-bg{
     opacity:.94;
     background-position:center;
+    transform:scaleX(-1);
   }
   .hero-shade{
     background:
-      linear-gradient(270deg,rgba(3,5,3,.99) 0%,rgba(3,5,3,.94) 36%,rgba(3,5,3,.60) 62%,rgba(3,5,3,.12) 100%),
+      linear-gradient(90deg,rgba(3,5,3,.99) 0%,rgba(3,5,3,.94) 36%,rgba(3,5,3,.60) 62%,rgba(3,5,3,.12) 100%),
       linear-gradient(0deg,rgba(3,5,3,.82) 0%,transparent 46%);
   }
   .hero-copy{
     width:min(690px,56%);
-    margin-left:auto;
+    margin-left:0;
+    margin-right:auto;
   }
 }
 
 @media(max-width:900px){
   .hero-bg{
     background-position:38% center;
+    transform:scaleX(-1);
   }
   .hero-copy{
     margin-left:0;
+    margin-right:auto;
   }
 }
 
