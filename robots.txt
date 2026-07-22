@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ocd-services-preston.ocd-services-uk.workers.dev/sitemap.xml
+Sitemap: https://ocdservicespreston.co.uk/sitemap.xml
