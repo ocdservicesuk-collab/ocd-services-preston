@@ -1,0 +1,16 @@
+.git
+.git/**
+.wrangler
+.wrangler/**
+.github
+.github/**
+wrangler.jsonc
+README.txt
+*_REPORT.txt
+*_NOTE.txt
+DOMAIN_LAUNCH_CHECKLIST.txt
+GOOGLE_VERIFICATION_README.txt
+SITEMAP_FIX_README.txt
+TEMP_LIVE_DEPLOYMENT_NOTE.txt
+cloudflare-preview-test.txt
+deploy-trigger.txt
