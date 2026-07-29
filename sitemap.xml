@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ocdservicespreston.co.uk/</loc>
-    <lastmod>2026-07-22</lastmod>
-  </url>
+  <url><loc>https://ocdservicespreston.co.uk/</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ocdservicespreston.co.uk/driveway-cleaning-preston/</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ocdservicespreston.co.uk/patio-cleaning-preston/</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ocdservicespreston.co.uk/pressure-washing-preston/</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ocdservicespreston.co.uk/fence-cleaning-spraying-preston/</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ocdservicespreston.co.uk/drain-jetting-preston/</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ocdservicespreston.co.uk/commercial-exterior-cleaning-preston/</loc><lastmod>2026-07-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>

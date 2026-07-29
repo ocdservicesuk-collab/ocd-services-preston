@@ -1,0 +1,50 @@
+OCD SERVICES v70 — FINAL PRODUCTION AUDIT
+Prepared: 29 July 2026
+
+RESULT: PASS — READY FOR PRODUCTION UPLOAD
+
+STATIC CHECKS
+PASS — required production files present
+PASS — 7 customer pages present
+PASS — Google verification preserved
+PASS — all pages have titles
+PASS — all pages have meta descriptions
+PASS — all pages have unique canonical URLs
+PASS — all JSON-LD parses
+PASS — no duplicate HTML IDs
+PASS — no missing local assets
+PASS — no broken internal links
+PASS — correct phone only
+PASS — no public pricing section
+PASS — 10 slideshow jobs
+PASS — four newest jobs installed
+PASS — automatic job progression retained
+PASS — manual takeover retained
+PASS — numbered selector removed
+PASS — WhatsApp photo quote retained
+PASS — Blue Light Card retained
+PASS — social channels retained
+PASS — sitemap contains 7 URLs
+PASS — robots points to sitemap
+
+BROWSER RENDER CHECKS
+PASS — homepage rendered with all local assets embedded
+PASS — all six service pages rendered
+PASS — no browser console errors
+PASS — all homepage and service-page images loaded
+PASS — all ten slideshow jobs loaded at 1200 × 750
+PASS — ten unique slideshow titles
+PASS — automatic before/after divider moves
+PASS — manual touch stops autoplay
+PASS — all three WhatsApp quote images use identical geometry
+PASS — mobile homepage has no horizontal overflow
+PASS — mobile images loaded
+
+FINAL RELEASE DETAILS
+Customer-facing pages: 7
+Slideshow jobs: 10
+Sitemap URLs: 7
+External link destinations encoded: 30
+Confirmed phone: 07909 813764
+Public pricing section: absent
+Production domain: https://ocdservicespreston.co.uk/

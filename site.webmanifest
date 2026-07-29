@@ -2,6 +2,7 @@
   "name": "OCD Services",
   "short_name": "OCD Services",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#050705",
   "theme_color": "#070907",

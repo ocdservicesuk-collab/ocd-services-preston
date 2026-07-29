@@ -1,0 +1,40 @@
+OCD SERVICES v76 — FINAL RESULTS SLIDESHOW RELEASE
+
+USE v76.
+
+This version removes the numbered Patio restoration / Side passage /
+Driveway clean / Fence transformation / Driveway edge / Driveway corner
+card column completely.
+
+The results section now contains only the large before/after slideshow.
+
+BEHAVIOUR
+- The lime comparison bar moves automatically.
+- It sweeps across the before/after image.
+- It then automatically changes to the next job.
+- It cycles through all 10 genuine OCD Services transformations.
+- It keeps cycling until the visitor touches the slider, arrows or dots.
+- After the visitor takes control it stays manual for that page visit.
+
+UPLOAD
+1. Download:
+   OCD_Services_v76_FINAL_PRODUCTION_AUTO_RESULTS_ONLY_20260730_0146.zip
+2. Extract the ZIP.
+3. Open:
+   https://github.com/ocdservicesuk-collab/ocd-services-preston
+4. Confirm branch = main.
+5. Add file > Upload files.
+6. Upload everything INSIDE the extracted v76 folder.
+7. Keep the repository's existing wrangler.jsonc and CNAME.
+8. Commit message:
+   Deploy OCD Services v76 automatic results slideshow
+9. Commit directly to main.
+10. Open:
+    https://dash.cloudflare.com/
+11. Workers & Pages > ocd-services-preston > Deployments.
+12. Wait for the newest deployment to show success.
+13. Check:
+    https://ocd-services-preston.ocd-services-uk.workers.dev/
+14. Then check:
+    https://ocdservicespreston.co.uk/
+15. Press Ctrl + F5 if an old cached version appears.

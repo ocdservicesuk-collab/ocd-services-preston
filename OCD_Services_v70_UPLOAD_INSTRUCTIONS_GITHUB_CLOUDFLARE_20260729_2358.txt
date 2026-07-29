@@ -1,0 +1,94 @@
+OCD SERVICES v70 — FINAL PRODUCTION UPLOAD INSTRUCTIONS
+Prepared: 29 July 2026
+Public website: https://ocdservicespreston.co.uk/
+GitHub repository: https://github.com/ocdservicesuk-collab/ocd-services-preston
+Cloudflare Worker: ocd-services-preston
+
+IMPORTANT
+- Upload the CONTENTS inside the extracted production folder, not the ZIP file.
+- Do not upload the outer folder itself.
+- Do not delete the existing wrangler.jsonc or CNAME files in GitHub.
+- Use the main branch because it is the production branch for this project.
+
+STEP 1 — DOWNLOAD AND EXTRACT
+1. Download OCD_Services_v70_FINAL_PRODUCTION_AUDITED_20260729_2358.zip.
+2. Open your Downloads folder.
+3. Right-click the ZIP and select Extract All.
+4. Open the extracted folder.
+5. You should immediately see index.html, assets, robots.txt, sitemap.xml and the six service-page folders.
+
+STEP 2 — OPEN GITHUB
+1. Open:
+   https://github.com/ocdservicesuk-collab/ocd-services-preston
+2. Check that the branch selector shows main.
+3. Select Add file.
+4. Select Upload files.
+
+STEP 3 — UPLOAD THE WEBSITE
+1. Return to the extracted production folder.
+2. Select everything INSIDE the folder:
+   - index.html
+   - assets
+   - all six service-page folders
+   - robots.txt
+   - sitemap.xml
+   - sitemap.txt
+   - site.webmanifest
+   - favicon files
+   - _headers
+   - Google verification file
+3. Drag the selected contents onto the GitHub upload page.
+4. Wait for GitHub to finish listing the uploaded files.
+5. Do not remove wrangler.jsonc or CNAME if they already exist in the repository.
+
+STEP 4 — COMMIT TO PRODUCTION
+1. Enter:
+   Deploy OCD Services v70 final production
+2. Select Commit directly to the main branch.
+3. Select Commit changes.
+
+STEP 5 — CHECK CLOUDFLARE
+1. Open:
+   https://dash.cloudflare.com/
+2. Go to Workers & Pages.
+3. Open ocd-services-preston.
+4. Open Deployments.
+5. Wait for the newest deployment from main to show success.
+6. Cloudflare automatically builds and deploys pushes to the configured production branch.
+
+STEP 6 — CHECK PREVIEW AND LIVE SITE
+Open:
+https://ocd-services-preston.ocd-services-uk.workers.dev/
+
+Then open:
+https://ocdservicespreston.co.uk/
+
+If the old site is cached:
+- Windows: Ctrl + F5.
+- Android Chrome: reload or use an Incognito tab.
+
+FINAL LIVE CHECKLIST
+- Phone shows 07909 813764.
+- Call opens the phone dialler.
+- WhatsApp opens a message to +44 7909 813764.
+- Automatic before/after bar moves.
+- Slideshow contains ten jobs.
+- Touching slider/arrows/dots stops autoplay and gives manual control.
+- Three WhatsApp quote photos are aligned.
+- Facebook, Instagram, Google and Maps buttons open.
+- Blue Light Card section displays.
+- Six service pages open:
+  /driveway-cleaning-preston/
+  /patio-cleaning-preston/
+  /pressure-washing-preston/
+  /fence-cleaning-spraying-preston/
+  /drain-jetting-preston/
+  /commercial-exterior-cleaning-preston/
+- https://ocdservicespreston.co.uk/robots.txt opens.
+- https://ocdservicespreston.co.uk/sitemap.xml opens.
+
+IF A DEPLOYMENT FAILS
+- Do not alter DNS or the custom domain.
+- Read the failed build details in Cloudflare.
+- The previous successful deployment is the safe rollback point.
+- Do not upload an older website package over v70.

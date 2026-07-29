@@ -1,0 +1,37 @@
+OCD SERVICES v75 — CORRECTED PRODUCTION UPLOAD
+
+USE v75. It replaces the earlier v70-v74 release files.
+
+The three WhatsApp quote pictures now occupy the full lime-outlined boxes.
+The lime border is painted over the photo and does not create an inset gap.
+
+1. Download:
+   OCD_Services_v75_FINAL_PRODUCTION_WHATSAPP_TRUE_FULL_BOX_20260730_0118.zip
+2. Extract the ZIP.
+3. Open:
+   https://github.com/ocdservicesuk-collab/ocd-services-preston
+4. Confirm branch = main.
+5. Add file > Upload files.
+6. Upload everything INSIDE the extracted v75 folder.
+7. Keep the existing wrangler.jsonc and CNAME files.
+8. Commit message:
+   Deploy OCD Services v75 WhatsApp full-box fix
+9. Commit directly to main.
+10. Open:
+    https://dash.cloudflare.com/
+11. Workers & Pages > ocd-services-preston > Deployments.
+12. Wait for the latest deployment to show success.
+13. Check:
+    https://ocd-services-preston.ocd-services-uk.workers.dev/
+14. Check:
+    https://ocdservicespreston.co.uk/
+15. Press Ctrl + F5 if an older cached version appears.
+
+FINAL CHECK
+- Image 1 fills box 1.
+- WhatsApp image fills box 2.
+- Quote/logo image fills box 3.
+- No empty black inset around image 1 or image 2.
+- All ten before/after jobs remain.
+- Automatic slider remains until manual interaction.
+- Phone remains 07909 813764.

@@ -1,0 +1,4 @@
+OCD Services v76
+Removed the legacy numbered results-card selector entirely.
+The large before/after viewer is now the only results interface.
+It automatically sweeps the divider and automatically cycles through all 10 jobs until manual interaction.

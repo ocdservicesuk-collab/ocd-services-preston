@@ -1,0 +1,4 @@
+OCD Services v75
+WhatsApp quote photos fill 100% of each card rectangle.
+Lime border is a pseudo-element overlay so it creates no inset around the image.
+All ten before/after slideshow jobs and other production features remain unchanged.
